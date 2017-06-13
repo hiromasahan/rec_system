@@ -5,9 +5,9 @@ st_app_pv
 --connect
 jdbc:oracle:thin:@10.60.60.30:1521:rptods
 --username
-rptods
+usrname
 --password
-a9IkEr2NS00$l$QW
+pwd
 --input-fields-terminated-by
 '\001'
 --input-lines-terminated-by
